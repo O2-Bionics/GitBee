@@ -1,2 +1,2 @@
-# GitWay
+# GitBee
 Cross-platform Git client.
